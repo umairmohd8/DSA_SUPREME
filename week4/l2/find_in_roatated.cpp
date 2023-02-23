@@ -21,6 +21,7 @@ int find_pivot(vector<int> arr, int start, int end) {
         find_pivot(arr, start, mid-1);
     else
         find_pivot(arr, mid+1, end);
+    return -1;
 }
 int find_element(vector<int> arr, int target){
     int pivot = find_pivot(arr, 0, arr.size()-1);
