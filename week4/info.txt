@@ -1,0 +1,11 @@
+searching and sorting 
+
+
+Types of problems:
+
+1. binary search 
+2. search space 
+3. index observation [odd occuring ]
+
+
+book allocation 
